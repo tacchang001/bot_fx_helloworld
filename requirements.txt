@@ -4,7 +4,6 @@ line-bot-sdk
 matplotlib
 numpy
 oandapyV20
-pandas
 pip-review
 python-dateutil
 pytz
